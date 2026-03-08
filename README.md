@@ -170,13 +170,14 @@ L'application affiche deux sections :
 
 
 <img width="1920" height="952" alt="Screenshot (716)" src="https://github.com/user-attachments/assets/0df154c9-c869-4366-9845-530b76e4ba3b" />
+<img width="1920" height="965" alt="Screenshot (717)" src="https://github.com/user-attachments/assets/d4d5d719-a58f-455e-be41-75fae42af951" />
 
 ```
-<img width="1920" height="965" alt="Screenshot (717)" src="https://github.com/user-attachments/assets/b31990bb-d0a3-46b2-8afc-eb11d9d06b9a" />
 
-``````
 
----
+
+
+
 
 ## Conclusion
 
